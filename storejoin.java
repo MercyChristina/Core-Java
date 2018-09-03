@@ -1,4 +1,4 @@
-//Display customer with total number of transactions
+//Display customer storeid and state..mapside join
 //inputfile:custs.txt import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
